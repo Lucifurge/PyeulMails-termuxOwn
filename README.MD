@@ -1,9 +1,8 @@
-git clone 
+git clone https://github.com/Lucifurge/PyeulMails-termuxOwn/tree/main
 
 cd PyeulMails-termuxOwn
 
-pip install request
-pip install mailgun
-pip install colorma
-pip install pystyle 
-pip instsall random
+pip install requests  # To send HTTP requests
+pip install mailgun   # For Mailgun API interaction
+pip install colorama  # For colorful terminal output
+pip install pystyle  # For cool styling effects in terminal
