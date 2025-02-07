@@ -9,3 +9,5 @@ pip install mailgun
 pip install colorama  
 
 pip install pystyle  
+
+python mail.py
